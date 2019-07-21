@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="优测教育" parallel="false">
+<parameter name="filePath" value="D:\\Learing_Documents\\app_testcase1.xlsx"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="com.youceedu.testng.TestRun"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
